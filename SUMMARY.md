@@ -4,9 +4,14 @@
 
 ## GETTING STARTED
 
-* [How to use AnuBitux](getting-started/how-to-use-anubitux.md)
-* [How to verify AnuBitux](getting-started/how-to-verify-anubitux.md)
 * [Why AnuBitux?](getting-started/why-anubitux.md)
+* [How to verify AnuBitux](getting-started/how-to-verify-anubitux.md)
+* [How to use AnuBitux](getting-started/how-to-use-anubitux/README.md)
+  * [Ventoy](getting-started/how-to-use-anubitux/ventoy.md)
+  * [Balena Etcher](getting-started/how-to-use-anubitux/balena-etcher.md)
+  * [Rufus](getting-started/how-to-use-anubitux/rufus.md)
+  * [Booting from USB](getting-started/how-to-use-anubitux/booting-from-usb.md)
+* [How to create an AnuBitux VM](getting-started/how-to-create-an-anubitux-vm.md)
 
 ## Features
 
