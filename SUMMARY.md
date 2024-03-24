@@ -15,7 +15,10 @@
 
 ## Features
 
-* [Tools list](features/tools-list.md)
+* [Tools list](features/tools-list/README.md)
+  * [Accessories](features/tools-list/accessories.md)
+  * [Page](features/tools-list/page.md)
+  * [Page 2](features/tools-list/page-2.md)
 * [Network](features/network.md)
 * [Browsers](features/browsers.md)
 * [Encryption](features/encryption.md)
