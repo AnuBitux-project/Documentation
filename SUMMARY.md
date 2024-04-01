@@ -17,8 +17,15 @@
 
 * [Tools list](features/tools-list/README.md)
   * [Accessories](features/tools-list/accessories.md)
-  * [Page](features/tools-list/page.md)
-  * [Page 2](features/tools-list/page-2.md)
+  * [Graphics](features/tools-list/graphics.md)
+  * [HW Wallets](features/tools-list/hw-wallets.md)
+  * [Internet](features/tools-list/internet.md)
+  * [Office](features/tools-list/office.md)
+  * [Privacy](features/tools-list/privacy.md)
+  * [Recovery](features/tools-list/recovery.md)
+  * [WalletGenerators](features/tools-list/walletgenerators.md)
+  * [Wallets](features/tools-list/wallets.md)
+  * [WalletTools](features/tools-list/wallettools.md)
 * [Network](features/network.md)
 * [Browsers](features/browsers.md)
 * [Encryption](features/encryption.md)
@@ -26,7 +33,6 @@
 
 ## Use cases
 
-* [Using your wallets](use-cases/using-your-wallets.md)
 * [Using hardware wallets](use-cases/using-hardware-wallets.md)
 * [Creating wallets](use-cases/creating-wallets.md)
 * [Recovering wallets](use-cases/recovering-wallets.md)
