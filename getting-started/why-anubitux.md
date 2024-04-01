@@ -11,3 +11,5 @@ So, in this scenario, managing cryptocurrencies in a safe and simple way is cruc
 * dispose transactions in a privacy preserving environment;
 * surf the web safely;
 * and even more!
+
+AnuBitux is not only a Linux distribution but also a bigger project carried out by its [team](https://anubitux.org/meet-the-anubitux-project/) which provides news and tutorials on the official website and through the communication channels like [Telegram](https://t.me/anubitux) and [X](https://x.com/anubitux).
