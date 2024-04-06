@@ -10,4 +10,6 @@ about:config
 
 in the URL bar and flag the "Show only modified preferences" option. There have been several changes to avoid telemetry, sponsored links, the use of any cache memory, the use of dangerous protocols like WebRTC, the execution of undesired scripts stored in .pdf files, and even a lot more!
 
+<figure><img src="../.gitbook/assets/2024-04-06_17-00.png" alt=""><figcaption></figcaption></figure>
+
 **Tor browser**, instead, has been included as is, since the Tor Project is taking a lot of effort in providing a very fine tuned browser, optimized to surf the Tor Network.
