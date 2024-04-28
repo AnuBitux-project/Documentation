@@ -12,6 +12,7 @@
   * [Rufus](getting-started/how-to-use-anubitux/rufus.md)
   * [Booting from USB](getting-started/how-to-use-anubitux/booting-from-usb.md)
 * [How to create an AnuBitux VM](getting-started/how-to-create-an-anubitux-vm.md)
+* [How to update an AnuBitux VM](getting-started/how-to-update-an-anubitux-vm.md)
 
 ## Features
 
