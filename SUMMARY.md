@@ -31,9 +31,16 @@
 * [Browsers](features/browsers.md)
 * [Encryption](features/encryption.md)
 * [Printing](features/printing.md)
+* [Password generation](features/password-generation.md)
 
 ## Use cases
 
+* [Creating wallets](use-cases/creating-wallets/README.md)
+  * [From mouse movements](use-cases/creating-wallets/from-mouse-movements.md)
+  * [From microphone](use-cases/creating-wallets/from-microphone.md)
+  * [From a dice (or a coin)](use-cases/creating-wallets/from-a-dice-or-a-coin.md)
+  * [From desktop clients](use-cases/creating-wallets/from-desktop-clients.md)
+  * [Blind generation](use-cases/creating-wallets/blind-generation.md)
 * [Using hardware wallets](use-cases/using-hardware-wallets.md)
-* [Creating wallets](use-cases/creating-wallets.md)
 * [Recovering wallets](use-cases/recovering-wallets.md)
+* [Cloning drives](use-cases/cloning-drives.md)
