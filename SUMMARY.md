@@ -13,6 +13,7 @@
   * [Booting from USB](getting-started/how-to-use-anubitux/booting-from-usb.md)
 * [How to create an AnuBitux VM](getting-started/how-to-create-an-anubitux-vm.md)
 * [How to update an AnuBitux VM](getting-started/how-to-update-an-anubitux-vm.md)
+* [How to build AnuBitux](getting-started/how-to-build-anubitux.md)
 
 ## Features
 
@@ -21,9 +22,9 @@
   * [Graphics](features/tools-list/graphics.md)
   * [HW Wallets](features/tools-list/hw-wallets.md)
   * [Internet](features/tools-list/internet.md)
-  * [Office](features/tools-list/office.md)
   * [Privacy](features/tools-list/privacy.md)
   * [Recovery](features/tools-list/recovery.md)
+  * [Reporting](features/tools-list/reporting.md)
   * [WalletGenerators](features/tools-list/walletgenerators.md)
   * [Wallets](features/tools-list/wallets.md)
   * [WalletTools](features/tools-list/wallettools.md)
